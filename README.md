@@ -1,4 +1,4 @@
-# Led.io
+# i2c_acc
 
 Node.js sample project for Raspberry Pi using an I2C acceleration sensor
 
